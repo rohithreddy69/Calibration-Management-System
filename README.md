@@ -161,4 +161,4 @@ The Calibration Management System provides an integrated solution for instrument
 
 ## 14. Author
 
-Rohith Reddy
+Rohith Reddy Kollamoram
